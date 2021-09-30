@@ -1,9 +1,12 @@
 /* Space out content a bit */
 body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-
+h2{
+  font-family:'Courier New', Courier, monospace
+}
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
